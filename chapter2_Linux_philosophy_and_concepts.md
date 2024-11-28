@@ -15,4 +15,18 @@
   - EXT4
   - FAT
   - NTFS
-- 
+  
+- X Window System -> Graphical subsystem on nearly all Linux Systems
+
+- Desktop Envirorment ->  Graphical user interface on top of the operating system for example:
+  - GNOME
+  - KDE
+  - XFCE
+  - FLUXBOX
+  
+- Command Line -> Interface for typing commands on top of the operating system
+  
+- Shell ->  Command line interpreter that interprets the operating system to perform any necessary tasks commands For example:
+  - BASH
+  - TCSH
+  - ZSH
